@@ -17,7 +17,7 @@ function App() {
     <Adventage/>
     <Map/>
     </div>
-    <Footer/>
+    <Footer/>   
     </>
   )
 }
